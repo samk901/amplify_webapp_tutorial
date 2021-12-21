@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "awstutorialapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/sam/amplify-app/amplify/backend/api/awstutorialapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authawstutorialapp1ed8f109"
+    },
+    "additionalAuthTypes": [],
+    "conflictResolution": {}
+  }
+}
